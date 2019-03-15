@@ -1,0 +1,92 @@
+﻿
+@import url('https://fonts.googleapis.com/css?family=Kalam|Poiret+One|ZCOOL+QingKe+HuangYou');
+/* The wrapper wraps around everything expect for the body. */
+
+#wrapper{
+ background-color:#eeeeee;
+ width:80%;
+ margin:0 auto;
+ 
+ 
+ }
+
+.headline{
+ color:purple;
+}
+
+img{
+
+   border:20px green solid;
+   padding: 30px 10px 
+   border-radius:50px;
+   border-radius:50px;
+   display:inline:
+}
+
+
+nav ul{
+   list-style-type:none;
+}
+nav a{
+   text-decoration:none;
+   padding-right: 180px;
+
+}
+nav li{
+  display: inline
+}
+
+nav a:link{
+  color: purple;
+}
+
+nav a:visited{
+  color: purple;
+}
+nav a:hover{
+  color: orange;
+}
+nav a:active{
+  color: red;
+}
+
+h1{
+  font-family: 'Indie Flower', cursive;
+  font-size:4em;
+  color:rgb(255,255,255,.7);
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  border-top: 3px solid orange;
+  
+}
+
+h2 {
+   font-family: 'ZCOOL QingKe HuangYou', cursive;
+   color: blue;
+   text-align: center;
+   border: 3px solid orange;
+   
+}
+
+h3{
+   font-family: 'Kalam', cursive;
+   color: red;
+   border-left: 3px solid orange;
+   /*display: inline;*/
+}
+
+
+body{
+background-color:#ffe6e6;
+}
+
+p{
+  font-weight:bold;
+  line-height:2;
+
+}
+
+footer{
+   text-align:center;
+}
